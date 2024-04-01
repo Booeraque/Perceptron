@@ -1,0 +1,5 @@
+./DataForPerceptron/example2/train.txt
+./DataForPerceptron/example2/test.txt
+
+./DataForPerceptron/iris_perceptron/training.txt
+./DataForPerceptron/iris_perceptron/test.txt
